@@ -1,0 +1,5 @@
+MIT License
+
+Copyright (c) 2026 Jegan Kamalnath
+
+Permission is hereby granted, free of charge...
