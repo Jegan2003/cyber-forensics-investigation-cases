@@ -60,8 +60,8 @@ cyber-forensics-investigation-cases/
 
 ## 🖼 Investigation Snapshots
 
-![FTK](screenshots/extraction using ftk.png)
-![Steg](screenshots/steg-zsteg.png)
+![FTK](screenshots/Usb Extraction using FTK.png)
+![Steg](screenshots/stegomedium.png)
 ![John](screenshots/john-password.png)
 ![Wireshark](screenshots/wireshark-traffic.png)
 ![Volatility](screenshots/volatility-pslist.png)
