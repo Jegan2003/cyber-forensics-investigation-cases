@@ -4,7 +4,7 @@
 ![Platform](https://img.shields.io/badge/Platform-Kali%20Linux-lightgrey)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
-![Banner](./banner.png)
+![Banner](banner.png)
 
 
 # 🔍 Cyber Forensics Investigation Cases
