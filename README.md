@@ -1,31 +1,44 @@
-![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
-![Domain](https://img.shields.io/badge/Domain-Digital%20Forensics-blue)
-![Tools](https://img.shields.io/badge/Tools-FTK%20|%20Volatility%20|%20Wireshark-orange)
+![Status](https://img.shields.io/badge/Project%20Status-Completed-success)
+![Domain](https://img.shields.io/badge/Domain-Cyber%20Forensics-blue)
+![Focus](https://img.shields.io/badge/Focus-DFIR%20%7C%20Threat%20Intelligence-orange)
 ![Platform](https://img.shields.io/badge/Platform-Kali%20Linux-lightgrey)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
 ![Banner](banner.png)
 
-# Cyber Forensics Investigation Cases
+# 🔍 Cyber Forensics Investigation Cases
+### Real-World Digital Forensics | Malware Analysis | Memory Forensics
 
-Hands-on digital forensics investigations covering USB forensics, malware traffic analysis, and memory forensics.  
-All investigations follow ACPO and NIST forensic standards.
-
----
-
-## 🔍 Case Studies
-
-- Case 1: USB Forensics – Bank Fraud Investigation  
-- Case 2: Malware Network Traffic Analysis  
-- Case 3: Memory Forensics – Bad PDF Investigation  
+A curated collection of **hands-on cyber forensics investigations** designed to simulate real-world incident response and digital evidence analysis.  
+Each case follows **ACPO & NIST forensic standards** and demonstrates how raw digital evidence is transformed into **actionable intelligence**.
 
 ---
 
-## 🛠 Tools Used
+## 🧭 What You’ll Find Here
+
+✔ USB Forensics (Hidden data, steganography, encryption)  
+✔ Malware Network Traffic Analysis (PCAP)  
+✔ Memory Forensics (Malicious PDF exploitation)  
+✔ Evidence integrity & chain of custody handling  
+✔ IOC extraction & attacker behavior analysis  
+
+---
+
+## 📂 Case Portfolio
+
+| Case | Title | Focus Area |
+|-----|------|------------|
+| 1 | USB Forensics – Bank Fraud | Steganography & Encryption |
+| 2 | Malware Traffic Analysis | C2 Beacon Detection |
+| 3 | Memory Forensics – Bad PDF | Exploit & Credential Theft |
+
+---
+
+## 🛠 Forensic Toolkit
 
 FTK Imager  
 Volatility Framework  
-Wireshark & Tshark  
+Wireshark / Tshark  
 Zeek Network Monitor  
 John the Ripper  
 zsteg  
@@ -33,56 +46,45 @@ Kali Linux
 
 ---
 
-## 🎯 Skills Demonstrated
+## 🧠 Skills Demonstrated
 
-Digital Forensics  
-Incident Response  
-Malware Analysis  
-Network Forensics  
+Digital Forensics & Incident Response (DFIR)  
+Malware Traffic Analysis  
 Memory Forensics  
-Evidence Handling  
-Chain of Custody  
-
----
-
-## 📂 Repository Structure
-
-cyber-forensics-investigation-cases/
-│
-├── case1-usb-forensics-bank-fraud/
-├── case2-malware-traffic-analysis/
-├── case3-memory-forensics-bad-pdf/
-├── screenshots/
-├── banner.png
-└── main-report.pdf
+Evidence Preservation  
+Indicator of Compromise (IOC) Extraction  
+Report Writing & Documentation  
 
 ---
 
 ## 🖼 Investigation Snapshots
-![FTK](cyber-forensics-investigation-cases/case1-usb-forensics-bank-fraud/screenshots/Usb-Extraction-using-FTK.png)
-![Steg](screenshots/stegomedium.png)
+
+![FTK](screenshots/usb-ftk.png)
+![Steg](screenshots/steg-zsteg.png)
 ![John](screenshots/john-password.png)
 ![Wireshark](screenshots/wireshark-traffic.png)
 ![Volatility](screenshots/volatility-pslist.png)
 
 ---
 
-## 🎯 What I Learned
+## 🎯 What Makes This Repository Different?
 
-- Practical digital evidence handling & chain of custody  
-- Detecting steganography and encryption  
-- Identifying malware beacon traffic  
-- Memory forensics using Volatility  
-- Writing forensic investigation reports  
+Unlike theoretical projects, this repository focuses on **practical investigations**:
+- Real evidence  
+- Real artifacts  
+- Real attacker techniques  
+- Real forensic workflows  
+
+This mirrors how DFIR teams operate in enterprise environments.
 
 ---
 
 ## 👨‍💻 Author
 
-Jegan Kamalnath  
+**Jegan Kamalnath**  
 MSc Cybersecurity Threat Intelligence & Forensics  
 University of Salford  
 
 ---
 
-⭐ If you find this repository useful, please give it a star.
+⭐ If this repository helped you, consider giving it a star.
